@@ -14,3 +14,5 @@ Determine how many ways she can divide the chocolate.
 s = [2, 2, 1, 3, 2]\
 d = 4\
 m = 2
+
+Lily wants to find segments summing to Ron's birth day, d = 4 with a length equalling his birth month, m = 2 In this case, there are two segments meeting her criteria: [2, 2] and [1, 3].
