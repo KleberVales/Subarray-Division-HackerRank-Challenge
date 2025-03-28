@@ -32,3 +32,6 @@ birthday has the following parameter(s):
 * int: the number of ways the bar can be divided
 
 ### Input Format
+
+The first line contains an integer n, the number of squares in the chocolate bar.
+
