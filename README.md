@@ -1,4 +1,4 @@
-# Subarray Division HackerRank Challenge
+# Subarray Division Data Structures Challenge
 
 Two children, Lily and Ron, want to share a chocolate bar. Each of the squares has an integer on it.
 
