@@ -34,4 +34,5 @@ birthday has the following parameter(s):
 ### Input Format
 
 The first line contains an integer n, the number of squares in the chocolate bar.
+The second line contains n space-separated integers s[i], the numbers on the chocolate squares where 0 <= i < n.
 
