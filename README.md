@@ -20,3 +20,5 @@ Lily wants to find segments summing to Ron's birth day, d = 4 with a length equa
 ### Function Description
 
 Complete the birthday function in the editor below.
+
+birthday has the following parameter(s):
