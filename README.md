@@ -22,3 +22,5 @@ Lily wants to find segments summing to Ron's birth day, d = 4 with a length equa
 Complete the birthday function in the editor below.
 
 birthday has the following parameter(s):
+
+* int s[n]: the numbers on each of the squares of chocolate
