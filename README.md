@@ -1,1 +1,1 @@
-# Subarray-Division-HackerRank-Challenge
+# Subarray Division HackerRank Challenge
