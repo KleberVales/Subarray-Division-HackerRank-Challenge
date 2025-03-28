@@ -26,3 +26,5 @@ birthday has the following parameter(s):
 * int s[n]: the numbers on each of the squares of chocolate
 * int d: Ron's birth day
 * int m: Ron's birth month
+
+### Returns
