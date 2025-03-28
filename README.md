@@ -10,3 +10,5 @@ Lily decides to share a contiguous segment of the bar selected such that:
 Determine how many ways she can divide the chocolate.
 
 ### Example
+
+s = [2, 2, 1, 3, 2]
